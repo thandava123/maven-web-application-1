@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: tomcat-pod
-        image: allurimadhu1993/chary
+        image: thandava/test:app
         ports:
         - containerPort: 8080
 ---
